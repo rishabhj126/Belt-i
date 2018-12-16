@@ -1,0 +1,8 @@
+prefix=/home/vikasnew/hackference_ws/devel
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/vikasnew/hackference_ws/src/usb_cam-develop/include
+Libs: -L/home/vikasnew/hackference_ws/devel/lib -lusb_cam
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/vikasnew/hackference_ws/devel
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.12.23
+Cflags: -I/home/vikasnew/hackference_ws/devel/include
+Libs: -L/home/vikasnew/hackference_ws/devel/lib 
+Requires: 
